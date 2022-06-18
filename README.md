@@ -53,11 +53,11 @@ Revised: 2022/
 
 ## 2. 大学数学（docs/univ）
 
-- [はじめに](.\docs\univ\0_はじめに.md)
+- [はじめに](https://github.com/DiaSird/math-lec/blob/main/docs/univ/0_%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB.md)
 
 よく使われる記号について、予習する。
 
-- [微積分学](.\docs\univ\1_微積分学.md)
+- [微積分学](https://github.com/DiaSird/math-lec/blob/main/docs/univ/1_%E5%BE%AE%E7%A9%8D%E5%88%86%E5%AD%A6.md)
 - 線形代数
 
 微積分と線形代数は基礎になるため、まずはこの 2 つの理解が最重要。
