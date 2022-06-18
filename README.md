@@ -31,7 +31,7 @@ Revised: 2022/
 
 数学 A:
 
-- [順列・組合せ](https://github.com/DiaSird/math-lec/blob/main/docs/high_sch/1_%E9%A0%86%E5%88%97%E7%B5%84%E5%90%88%E3%81%9B.md))
+- [順列・組合せ](https://github.com/DiaSird/math-lec/blob/main/docs/high_sch/1_%E9%A0%86%E5%88%97%E7%B5%84%E5%90%88%E3%81%9B.md)
 
 数学 Ⅱ:
 
