@@ -42,7 +42,7 @@ Revised: 2022/
 数学 B:
 
 - ベクトル
-- [数列](.\docs\high_sch\6_数列.md)
+- [数列](https://github.com/DiaSird/math-lec/blob/main/docs/high_sch/6_%E6%95%B0%E5%88%97.md)
 - 確率統計
 
 数学 Ⅲ:
